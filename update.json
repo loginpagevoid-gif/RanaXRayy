@@ -1,7 +1,7 @@
 {
   "versionCode": 1,
   "versionName": "1.0",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "downloadUrl": "YOUR_APK_DOWNLOAD_LINK",
   "changelog": [
     "Initial release"
